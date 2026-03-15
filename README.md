@@ -39,7 +39,7 @@ The objective is to create an interactive Excel dashboard that allows users to:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard-Preview.png)
+![Dashboard Preview](Excel-Dashboard-preview.png)
 
 ---
 
